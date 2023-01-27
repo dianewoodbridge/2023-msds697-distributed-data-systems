@@ -79,6 +79,10 @@ def write_data_to_json(parent_dir, directory, file_name, data):
 
 
 def download_sf_weather_data(**kwargs):
+    '''
+    Download SF weather data by calling retreive_noaa_api_data() and 
+    Write data as json using write_data_to_json()
+    '''
     data = filter_history_data(retreive_noaa_api_data(kwargs['noaa_token'],
                                                       kwargs['api_url']),
                                kwargs['three_days_ago'])

@@ -79,6 +79,10 @@ def write_data_to_json(parent_dir, directory, file_name, data):
 
 
 def download_sf_weather_data(**kwargs):
+    '''
+    Download SF weather data by calling retreive_noaa_api_data() and 
+    Write data as json using write_data_to_json()
+    '''
     data = filter_history_data(retreive_noaa_api_data(kwargs['noaa_token'],
                                                       kwargs['api_url']),
                                kwargs['three_days_ago'])
@@ -110,3 +114,14 @@ with DAG(dag_id="download_data_step2",
 
     download_sf_weather_data = PythonOperator()
 
+def f(a : str):
+    '''
+    a : a string value,
+    '''
+    return_val = str()
+    for i in range(0, len(a)):
+        return_val =  return_val + a[len(a) - (i+1)]
+    return return_val
+
+
+f("MSDS")
