@@ -113,15 +113,3 @@ with DAG(dag_id="download_data_step2",
                                                             'yesterday': str(yesterday)})
 
     download_sf_weather_data = PythonOperator()
-
-def f(a : str):
-    '''
-    a : a string value,
-    '''
-    return_val = str()
-    for i in range(0, len(a)):
-        return_val =  return_val + a[len(a) - (i+1)]
-    return return_val
-
-
-f("MSDS")
