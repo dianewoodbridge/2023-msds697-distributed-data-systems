@@ -1,0 +1,3510 @@
+{
+    "Contents": [
+        {
+            "Key": "BingCoronavirusQuerySet/",
+            "LastModified": "2021-11-10T21:08:12.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "BingCoronavirusQuerySet/2020.tsv",
+            "LastModified": "2021-11-10T21:08:57.000Z",
+            "ETag": "\"be885fd2292fa647111e88269f3e1da9-37\"",
+            "Size": 625641357,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "BingCoronavirusQuerySet/2021.tsv",
+            "LastModified": "2021-11-10T21:08:57.000Z",
+            "ETag": "\"b6be96f8414f66165a216f7670c831de-23\"",
+            "Size": 383467611,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "Italian_Stack_Exchange/",
+            "LastModified": "2017-01-03T18:41:37.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "Italian_Stack_Exchange/italianBadges.csv",
+            "LastModified": "2017-01-03T18:42:30.000Z",
+            "ETag": "\"a524f4d13045b8160adbe0266439c601\"",
+            "Size": 63742,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "Italian_Stack_Exchange/italianComments.csv",
+            "LastModified": "2017-01-03T18:42:31.000Z",
+            "ETag": "\"213d024ce3b2a100488833335f1033fc\"",
+            "Size": 535590,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "Italian_Stack_Exchange/italianPosthistory.csv",
+            "LastModified": "2017-01-03T18:42:34.000Z",
+            "ETag": "\"b21da25d9ab1226a6508635ccad7cb6d\"",
+            "Size": 686602,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "Italian_Stack_Exchange/italianPostlinks.csv",
+            "LastModified": "2017-01-03T18:42:36.000Z",
+            "ETag": "\"9fb7b0f8c7b30228e66417b16121218c\"",
+            "Size": 1330,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "Italian_Stack_Exchange/italianPosts.csv",
+            "LastModified": "2017-01-03T18:42:39.000Z",
+            "ETag": "\"c6e933fef589fa85f1d2e5c4e596b8b8\"",
+            "Size": 1251764,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "Italian_Stack_Exchange/italianTags.csv",
+            "LastModified": "2017-01-03T18:42:39.000Z",
+            "ETag": "\"77120fb514a151b36702b36d1e39ffe5\"",
+            "Size": 1785,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "Italian_Stack_Exchange/italianUsers.csv",
+            "LastModified": "2017-01-03T18:42:40.000Z",
+            "ETag": "\"4f1c9ab793808c4359fce208d91d6c88\"",
+            "Size": 250580,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "Italian_Stack_Exchange/italianVotes.csv",
+            "LastModified": "2017-01-03T18:42:40.000Z",
+            "ETag": "\"8a526b1c99c25d5e92d4397e0a6355c5\"",
+            "Size": 213578,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "README.md",
+            "LastModified": "2016-12-22T14:21:56.000Z",
+            "ETag": "\"878d4a0caafb82a63d56468c5c8c8d82\"",
+            "Size": 3828,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "SF_business/.DS_Store",
+            "LastModified": "2022-02-10T06:44:24.000Z",
+            "ETag": "\"194577a7e20bdcc7afbb718f502c134c\"",
+            "Size": 6148,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "SF_business/filtered_registered_business_sf.tsv",
+            "LastModified": "2022-02-10T06:44:29.000Z",
+            "ETag": "\"4245f10bd76d66ef5a2256e749594094\"",
+            "Size": 11747711,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "SF_business/supervisor_sf.tsv",
+            "LastModified": "2022-02-10T06:44:24.000Z",
+            "ETag": "\"68b6ea3a09e0a463fdd7641404dc509a\"",
+            "Size": 685,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/",
+            "LastModified": "2019-11-04T19:00:06.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/.DS_Store",
+            "LastModified": "2019-11-04T19:01:11.000Z",
+            "ETag": "\"e3038c893bea39c7aefa0baddd178c4e\"",
+            "Size": 8196,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/.DS_Store",
+            "LastModified": "2019-11-04T19:07:51.000Z",
+            "ETag": "\"194577a7e20bdcc7afbb718f502c134c\"",
+            "Size": 6148,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1600_accel_phone.txt",
+            "LastModified": "2019-11-04T19:11:17.000Z",
+            "ETag": "\"699f40328e2a2212ffd682e2f157d0b2\"",
+            "Size": 3451789,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1601_accel_phone.txt",
+            "LastModified": "2019-11-04T19:12:16.000Z",
+            "ETag": "\"e4d443c34e4eb5bda68ff5c9564c86b5\"",
+            "Size": 4405756,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1602_accel_phone.txt",
+            "LastModified": "2019-11-04T19:10:22.000Z",
+            "ETag": "\"4f8b6d644e2529e26e4c44545e86dc18\"",
+            "Size": 4629305,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1603_accel_phone.txt",
+            "LastModified": "2019-11-04T19:07:39.000Z",
+            "ETag": "\"268a01d1b90e2ea4b4ca4ce7a4724a91\"",
+            "Size": 4240569,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1604_accel_phone.txt",
+            "LastModified": "2019-11-04T19:07:49.000Z",
+            "ETag": "\"5c573ac836b4e085f87a89e09dc83ef6\"",
+            "Size": 3362095,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1605_accel_phone.txt",
+            "LastModified": "2019-11-04T19:08:49.000Z",
+            "ETag": "\"ed31c422366637ab209a74e3ec4c6bd6\"",
+            "Size": 4378150,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1606_accel_phone.txt",
+            "LastModified": "2019-11-04T19:13:21.000Z",
+            "ETag": "\"cfbabd3f08948dcd70d96a8c978b4549\"",
+            "Size": 3577672,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1607_accel_phone.txt",
+            "LastModified": "2019-11-04T19:10:18.000Z",
+            "ETag": "\"6b1d3f45c3ff8e6f63c2beb2d67a51dd\"",
+            "Size": 4186427,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1608_accel_phone.txt",
+            "LastModified": "2019-11-04T19:11:41.000Z",
+            "ETag": "\"e3fa02e893c4b922fde76a5d966a5046\"",
+            "Size": 5165173,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1609_accel_phone.txt",
+            "LastModified": "2019-11-04T19:13:21.000Z",
+            "ETag": "\"fa63a6c7fff57d1dbe0eef461a206380\"",
+            "Size": 3298442,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1610_accel_phone.txt",
+            "LastModified": "2019-11-04T19:13:48.000Z",
+            "ETag": "\"549ba8cfebf89dd1bcfe20fdf8de4dd6\"",
+            "Size": 4268868,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1611_accel_phone.txt",
+            "LastModified": "2019-11-04T19:10:58.000Z",
+            "ETag": "\"8226d93825d9bbaa99a827ae5eaf5c59\"",
+            "Size": 3412659,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1612_accel_phone.txt",
+            "LastModified": "2019-11-04T19:08:16.000Z",
+            "ETag": "\"7e778ef496bb87191e41704a7d8e9c84\"",
+            "Size": 3403603,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1613_accel_phone.txt",
+            "LastModified": "2019-11-04T19:09:13.000Z",
+            "ETag": "\"e27d2fe628281800bcd865fc96abc759\"",
+            "Size": 4372269,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1614_accel_phone.txt",
+            "LastModified": "2019-11-04T19:09:43.000Z",
+            "ETag": "\"3f4953e6bbd3831ff97b5c0e5759e0c8\"",
+            "Size": 8644255,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1615_accel_phone.txt",
+            "LastModified": "2019-11-04T19:07:09.000Z",
+            "ETag": "\"93ab42f4e82a144df4103b220a4605c6\"",
+            "Size": 3540585,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1616_accel_phone.txt",
+            "LastModified": "2019-11-04T19:11:00.000Z",
+            "ETag": "\"f67f3f0ddd45c38dd412efe0acddb2e4\"",
+            "Size": 5421546,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1617_accel_phone.txt",
+            "LastModified": "2019-11-04T19:11:56.000Z",
+            "ETag": "\"1de78c09a1697ea0e3de40a8e746fdbe\"",
+            "Size": 3537072,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1618_accel_phone.txt",
+            "LastModified": "2019-11-04T19:12:37.000Z",
+            "ETag": "\"06df5df4bd8295359c30ca8a84780e3b\"",
+            "Size": 3356688,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1619_accel_phone.txt",
+            "LastModified": "2019-11-04T19:11:45.000Z",
+            "ETag": "\"fb240d546cb3c27b4e0816471c9ac670\"",
+            "Size": 4466877,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1620_accel_phone.txt",
+            "LastModified": "2019-11-04T19:08:17.000Z",
+            "ETag": "\"400529cc9019c2c0918314760da5c139\"",
+            "Size": 5970645,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1621_accel_phone.txt",
+            "LastModified": "2019-11-04T19:09:09.000Z",
+            "ETag": "\"6f820ca6ad8c0e9c15b1c06cb6616a38\"",
+            "Size": 4444723,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1622_accel_phone.txt",
+            "LastModified": "2019-11-04T19:13:22.000Z",
+            "ETag": "\"eba354fc0ffb58ff22f138c00ab62407\"",
+            "Size": 3560038,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1623_accel_phone.txt",
+            "LastModified": "2019-11-04T19:10:30.000Z",
+            "ETag": "\"9bd217ec194470d2997154b7d2c22cb7\"",
+            "Size": 4821445,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1624_accel_phone.txt",
+            "LastModified": "2019-11-04T19:11:42.000Z",
+            "ETag": "\"257e220d7a959bf6c0042eda9d044d4e\"",
+            "Size": 3516538,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1625_accel_phone.txt",
+            "LastModified": "2019-11-04T19:13:06.000Z",
+            "ETag": "\"e4ab1d3f3476cee3951e8ae21050647b\"",
+            "Size": 6328061,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1626_accel_phone.txt",
+            "LastModified": "2019-11-04T19:09:40.000Z",
+            "ETag": "\"e1e694aa31272e8a3d2ea5190f80e0e7\"",
+            "Size": 4093799,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1627_accel_phone.txt",
+            "LastModified": "2019-11-04T19:08:07.000Z",
+            "ETag": "\"662d95a5c0c590ae3dfca05c8005c760\"",
+            "Size": 8517667,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1628_accel_phone.txt",
+            "LastModified": "2019-11-04T19:07:34.000Z",
+            "ETag": "\"13c4bc34c63f2c517ca54563b2d3b6a2\"",
+            "Size": 6052767,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1629_accel_phone.txt",
+            "LastModified": "2019-11-04T19:10:27.000Z",
+            "ETag": "\"23dbcc157b1e1e70483ea41b110357a6\"",
+            "Size": 7570062,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1630_accel_phone.txt",
+            "LastModified": "2019-11-04T19:09:31.000Z",
+            "ETag": "\"ff5c25660a7f7306a5e77798ffdc3807\"",
+            "Size": 3508824,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1631_accel_phone.txt",
+            "LastModified": "2019-11-04T19:07:12.000Z",
+            "ETag": "\"9c1e8b4ab9cf8e1e837310481a447b00\"",
+            "Size": 3519110,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1632_accel_phone.txt",
+            "LastModified": "2019-11-04T19:11:27.000Z",
+            "ETag": "\"03deca94824115b7dfb94d17d2f0e701\"",
+            "Size": 3414060,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1633_accel_phone.txt",
+            "LastModified": "2019-11-04T19:12:13.000Z",
+            "ETag": "\"2e0790af1fca0a1222028c8e75e5234e\"",
+            "Size": 4778928,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1634_accel_phone.txt",
+            "LastModified": "2019-11-04T19:13:42.000Z",
+            "ETag": "\"802ccc39033313f05959bdca9e060de0\"",
+            "Size": 3467824,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1635_accel_phone.txt",
+            "LastModified": "2019-11-04T19:11:01.000Z",
+            "ETag": "\"0744efb3438a6362acd8ff04a2872224\"",
+            "Size": 7075037,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1636_accel_phone.txt",
+            "LastModified": "2019-11-04T19:09:01.000Z",
+            "ETag": "\"c44534f07858c0d57dc5eb556bab2b02\"",
+            "Size": 3523713,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1637_accel_phone.txt",
+            "LastModified": "2019-11-04T19:09:36.000Z",
+            "ETag": "\"45287d8982dca1503e76a42ee0a09470\"",
+            "Size": 3462864,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1638_accel_phone.txt",
+            "LastModified": "2019-11-04T19:08:33.000Z",
+            "ETag": "\"c128f426b2a1cb8dfaa8df943c07978d\"",
+            "Size": 3632477,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1639_accel_phone.txt",
+            "LastModified": "2019-11-04T19:07:59.000Z",
+            "ETag": "\"8eb4e3baf2270ef78b36ce58efe7f05d\"",
+            "Size": 3546313,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1640_accel_phone.txt",
+            "LastModified": "2019-11-04T19:10:56.000Z",
+            "ETag": "\"41df3ae1f337ffe60e0134080d5cd313\"",
+            "Size": 3564060,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1641_accel_phone.txt",
+            "LastModified": "2019-11-04T19:13:39.000Z",
+            "ETag": "\"8b44af61cab1c55727e47e28f2107582\"",
+            "Size": 8968988,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1642_accel_phone.txt",
+            "LastModified": "2019-11-04T19:09:00.000Z",
+            "ETag": "\"1610a1db9b2091e5321c9705c9026687\"",
+            "Size": 7842778,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1643_accel_phone.txt",
+            "LastModified": "2019-11-04T19:08:18.000Z",
+            "ETag": "\"d7a8da7a17b6289a22bf2293349f46cd\"",
+            "Size": 8330923,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1644_accel_phone.txt",
+            "LastModified": "2019-11-04T19:08:58.000Z",
+            "ETag": "\"0cccdd1b02df389781f35b6000f576c6\"",
+            "Size": 8990807,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1645_accel_phone.txt",
+            "LastModified": "2019-11-04T19:10:21.000Z",
+            "ETag": "\"2f7343c9b41e72da4a0a2575a8b5f9a4\"",
+            "Size": 8990486,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1646_accel_phone.txt",
+            "LastModified": "2019-11-04T19:13:16.000Z",
+            "ETag": "\"633b29fd4f4f97d2b80838eadf75890b\"",
+            "Size": 9071276,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1647_accel_phone.txt",
+            "LastModified": "2019-11-04T19:11:27.000Z",
+            "ETag": "\"cfd263eb80c8b769bf91acda6b59a0ec\"",
+            "Size": 4570430,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1648_accel_phone.txt",
+            "LastModified": "2019-11-04T19:12:32.000Z",
+            "ETag": "\"c09d8e3c39b588033f1ce01d49d5e7d3\"",
+            "Size": 8851344,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1649_accel_phone.txt",
+            "LastModified": "2019-11-04T19:12:23.000Z",
+            "ETag": "\"c4b836873ab44794880bec3c779075f0\"",
+            "Size": 4582903,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/accel/data_1650_accel_phone.txt",
+            "LastModified": "2019-11-04T19:12:35.000Z",
+            "ETag": "\"6c771695295f6d9d834d075e75579cd7\"",
+            "Size": 8890233,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/.DS_Store",
+            "LastModified": "2019-11-04T19:01:44.000Z",
+            "ETag": "\"194577a7e20bdcc7afbb718f502c134c\"",
+            "Size": 6148,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1600_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:06.000Z",
+            "ETag": "\"2cafc3a276717bf6160c92af9798c71f\"",
+            "Size": 3885778,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1601_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:01:42.000Z",
+            "ETag": "\"16045a4fd116cb15812ebfd4b546ef66\"",
+            "Size": 4911115,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1602_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:03:00.000Z",
+            "ETag": "\"0f80b8bb387399625a4ccd5e283859ad\"",
+            "Size": 3837486,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1603_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:03:34.000Z",
+            "ETag": "\"356ea30ce09e5b500dc01b151e683a2a\"",
+            "Size": 4773798,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1604_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:03:16.000Z",
+            "ETag": "\"dfaf80568dd370fa64b53cfa9db68353\"",
+            "Size": 3834456,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1605_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:35.000Z",
+            "ETag": "\"ae9c6411d51c447fb436bffa851df883\"",
+            "Size": 4869160,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1606_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:01:39.000Z",
+            "ETag": "\"f696f874c3a6b42a49d41955fb5dabd1\"",
+            "Size": 3852371,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1607_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:19.000Z",
+            "ETag": "\"9c2ac5f67fd32c702171f67d29ac1a2d\"",
+            "Size": 4609178,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1608_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:10.000Z",
+            "ETag": "\"0cdc4e572809ab896477209d0141c60e\"",
+            "Size": 3859974,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1609_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:01:57.000Z",
+            "ETag": "\"a84cf41db5557ee72d58ae4aafab52ac\"",
+            "Size": 3572366,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1610_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:32.000Z",
+            "ETag": "\"0ea035acb02d9bcb505444ecb687f900\"",
+            "Size": 3820246,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1611_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:03:07.000Z",
+            "ETag": "\"806b7b5dce044cf04446d4b8d7e26785\"",
+            "Size": 3771498,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1612_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:36.000Z",
+            "ETag": "\"46e3dcee5518aeb5d8479bf3b91c36c9\"",
+            "Size": 3776516,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1613_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:01:41.000Z",
+            "ETag": "\"6de070c4ce1372d0f8682dae3ea39b0e\"",
+            "Size": 4897943,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1614_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:01:53.000Z",
+            "ETag": "\"c97efe2eae2534c52372102841cc58cd\"",
+            "Size": 4857796,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1615_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:09.000Z",
+            "ETag": "\"e8bb3fe692adeb4379c39f9f1b53e17e\"",
+            "Size": 3839029,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1616_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:54.000Z",
+            "ETag": "\"3e8a5abe624c320fbafe5f56579a0a71\"",
+            "Size": 3483980,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1617_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:42.000Z",
+            "ETag": "\"f2c2a111ca660887e76fcb8eec5d546b\"",
+            "Size": 3790978,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1618_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:02:43.000Z",
+            "ETag": "\"ee8967353fdfa07c636a86401ba630ce\"",
+            "Size": 3685698,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1619_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:03:33.000Z",
+            "ETag": "\"e58e8cd8bc245b47c6046c10a5fcffae\"",
+            "Size": 4911993,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1620_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:06:42.000Z",
+            "ETag": "\"07a55b5a193b845f938271b097fa7dae\"",
+            "Size": 3868922,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1621_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:06:24.000Z",
+            "ETag": "\"70595b547aaebff508714ecc51f9dc02\"",
+            "Size": 4750036,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1622_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:18.000Z",
+            "ETag": "\"2e16bd164c64051788bd30c3dab30d76\"",
+            "Size": 3938511,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1623_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:09.000Z",
+            "ETag": "\"c07329f091b1d1b3ea9d4a3edd1cd734\"",
+            "Size": 3757635,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1624_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:05:35.000Z",
+            "ETag": "\"2797c1f6e309c98848134e64e248ddbb\"",
+            "Size": 3912121,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1625_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:03:41.000Z",
+            "ETag": "\"8997f8d67a7c4c5bdd3538fa8e2e4c8d\"",
+            "Size": 3874652,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1626_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:05:30.000Z",
+            "ETag": "\"2c4cbdb9c2aea4a1a7434dac114ce3e0\"",
+            "Size": 4191013,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1627_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:06:52.000Z",
+            "ETag": "\"6df12fd48b0088504298ffe0cbd8ce1c\"",
+            "Size": 3845609,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1628_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:06:02.000Z",
+            "ETag": "\"994d1df8cfea62221e01ac1ef3bb44d8\"",
+            "Size": 3961529,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1629_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:07:12.000Z",
+            "ETag": "\"481f4426f2fc05530cad7b21c72adc5e\"",
+            "Size": 7861782,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1630_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:03:52.000Z",
+            "ETag": "\"8af176bf6d84769cd59e8e20b50174a8\"",
+            "Size": 3926453,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1631_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:33.000Z",
+            "ETag": "\"90b2f58df7a7f74429c3b667a78f458f\"",
+            "Size": 3955038,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1632_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:07:01.000Z",
+            "ETag": "\"d983e70dfe97b668b1eca7cf66416f5c\"",
+            "Size": 3755442,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1633_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:05:33.000Z",
+            "ETag": "\"aa9cfd125b605eee67d5f38a9bf4f1a8\"",
+            "Size": 3833098,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1634_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:06:01.000Z",
+            "ETag": "\"305f55565ff6bdf897ca1e8b6c294fa9\"",
+            "Size": 3821747,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1635_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:06:28.000Z",
+            "ETag": "\"a6e62d732a46c296f168178ca016b488\"",
+            "Size": 3884650,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1636_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:46.000Z",
+            "ETag": "\"ccd73521f25910773f8dce48edde5960\"",
+            "Size": 3864932,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1637_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:08.000Z",
+            "ETag": "\"75b225868c3d107449d970b4d8796b3b\"",
+            "Size": 3684242,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1638_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:03:26.000Z",
+            "ETag": "\"2c8868cd809099c28aec69d5f9069416\"",
+            "Size": 3815268,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1639_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:54.000Z",
+            "ETag": "\"91f1610e2fb900e59679306af3016337\"",
+            "Size": 3794390,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1640_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:50.000Z",
+            "ETag": "\"a4d5045942488696e74ce80f6d32728f\"",
+            "Size": 3768329,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1641_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:25.000Z",
+            "ETag": "\"ef353dcf457334bcd99244bd59791d98\"",
+            "Size": 4527192,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1642_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:05:26.000Z",
+            "ETag": "\"9c87e466181c1f2c7c1a72601eefb375\"",
+            "Size": 4319128,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1643_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:06:49.000Z",
+            "ETag": "\"398448dcd40091d90791a8fe4682cabb\"",
+            "Size": 4483781,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1644_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:06:26.000Z",
+            "ETag": "\"976e71626845863816fb7988b2dff236\"",
+            "Size": 4562585,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1645_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:05:36.000Z",
+            "ETag": "\"3370e98954e3bc5e43269482c6734d77\"",
+            "Size": 4816124,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1646_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:12.000Z",
+            "ETag": "\"b72b75080b3ac07e6c47008d8ea3e08b\"",
+            "Size": 4842917,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1647_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:31.000Z",
+            "ETag": "\"0bf389c5a62eeca14fae242b6744ae43\"",
+            "Size": 4926604,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1648_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:04:58.000Z",
+            "ETag": "\"9e3fdd15fe678c0de3dbad2b5ba4b587\"",
+            "Size": 4696823,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1649_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:03:35.000Z",
+            "ETag": "\"4d23770a7174898be21dbe0f138b8738\"",
+            "Size": 4956365,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/phone/gyro/data_1650_gyro_phone.txt",
+            "LastModified": "2019-11-04T19:06:14.000Z",
+            "ETag": "\"959c348b46ba67f2f5e778807039039b\"",
+            "Size": 4746594,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/sensor_info_1.txt",
+            "LastModified": "2019-11-14T01:19:21.000Z",
+            "ETag": "\"5e6fd40c06cabedf4ec63d591ed00fc7\"",
+            "Size": 317,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/sensor_info_2.txt",
+            "LastModified": "2019-11-14T01:19:50.000Z",
+            "ETag": "\"ec900a8d683f0653fa082e1c2bb892d1\"",
+            "Size": 295,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/.DS_Store",
+            "LastModified": "2019-11-04T19:01:11.000Z",
+            "ETag": "\"67526f67bf0e274ea044bc658503eeca\"",
+            "Size": 10244,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/.DS_Store",
+            "LastModified": "2019-11-04T19:19:08.000Z",
+            "ETag": "\"194577a7e20bdcc7afbb718f502c134c\"",
+            "Size": 6148,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1600_accel_watch.txt",
+            "LastModified": "2019-11-04T19:18:51.000Z",
+            "ETag": "\"af55f21be1035c5ab3c988249574d156\"",
+            "Size": 3525659,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1601_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:58.000Z",
+            "ETag": "\"23518097710766c8f5bd9bf46d3585a3\"",
+            "Size": 3601950,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1602_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:35.000Z",
+            "ETag": "\"dea6b41da08dc6f984349026ff410725\"",
+            "Size": 3553229,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1603_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:06.000Z",
+            "ETag": "\"f68ca73934eee60048276017362faf79\"",
+            "Size": 3474263,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1604_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:27.000Z",
+            "ETag": "\"53ec255435a8ee7a63dbd2e4b1f921a3\"",
+            "Size": 3539614,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1605_accel_watch.txt",
+            "LastModified": "2019-11-04T19:23:27.000Z",
+            "ETag": "\"34ca55fb7918712ca0daa8850be8bf46\"",
+            "Size": 3520265,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1606_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:28.000Z",
+            "ETag": "\"9d3ec12d0ed2fe915354d52ec265553e\"",
+            "Size": 3552261,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1607_accel_watch.txt",
+            "LastModified": "2019-11-04T19:19:41.000Z",
+            "ETag": "\"c128e82a6162774643d01134a1748453\"",
+            "Size": 3611704,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1608_accel_watch.txt",
+            "LastModified": "2019-11-04T19:19:33.000Z",
+            "ETag": "\"f958d00de75bca0ec96444d0e012eb7f\"",
+            "Size": 3758127,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1609_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:06.000Z",
+            "ETag": "\"08b04c54c63641e0af48d4e9f310f203\"",
+            "Size": 3814022,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1610_accel_watch.txt",
+            "LastModified": "2019-11-04T19:19:53.000Z",
+            "ETag": "\"55964dfd0ff59713e5127c0511037332\"",
+            "Size": 3480572,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1611_accel_watch.txt",
+            "LastModified": "2019-11-04T19:19:16.000Z",
+            "ETag": "\"42a26c582b07f9852bdd936b132bee53\"",
+            "Size": 3439634,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1612_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:21.000Z",
+            "ETag": "\"e9bd1f5c1fd2f25fa33fcdb8b1c1a397\"",
+            "Size": 3459368,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1613_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:57.000Z",
+            "ETag": "\"20285a30cc61fcfb8dfc81dfdeaa9191\"",
+            "Size": 3552644,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1614_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:20.000Z",
+            "ETag": "\"436b3e67e35c4dc50825bfd0935f564d\"",
+            "Size": 3499501,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1615_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:16.000Z",
+            "ETag": "\"2c247b29dbebbccc80b51c87daf67c63\"",
+            "Size": 3477295,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1616_accel_watch.txt",
+            "LastModified": "2019-11-04T19:19:26.000Z",
+            "ETag": "\"385e56a0c36b83e4891b328241886f0f\"",
+            "Size": 3354696,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1617_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:30.000Z",
+            "ETag": "\"1315a362e3bd7f76d7e86f86f7ab9391\"",
+            "Size": 3679715,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1618_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:37.000Z",
+            "ETag": "\"36709d0242508c5160b2da9e8c8ef32e\"",
+            "Size": 3338531,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1619_accel_watch.txt",
+            "LastModified": "2019-11-04T19:18:50.000Z",
+            "ETag": "\"b8d396b2ff181def0ffedc4ad069b023\"",
+            "Size": 3568747,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1620_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:59.000Z",
+            "ETag": "\"05b0738882aad98dec3c87b9a4468e50\"",
+            "Size": 3635066,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1621_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:56.000Z",
+            "ETag": "\"3030df901d6e819ade69049d803bd593\"",
+            "Size": 3914977,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1622_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:22.000Z",
+            "ETag": "\"9afb264ae7feee077dfa4dcc4efce251\"",
+            "Size": 3471354,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1623_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:05.000Z",
+            "ETag": "\"6eb09f968b909eab9c878c11a54b6974\"",
+            "Size": 3472465,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1624_accel_watch.txt",
+            "LastModified": "2019-11-04T19:19:07.000Z",
+            "ETag": "\"43dcc12ecd6cf0b7707b4ffa94f6c9af\"",
+            "Size": 3912595,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1625_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:54.000Z",
+            "ETag": "\"7e4ea328513a585d24b265560f2ce0b6\"",
+            "Size": 3663377,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1626_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:38.000Z",
+            "ETag": "\"4f20fcf2d7c56da8674678925b8899a3\"",
+            "Size": 3708426,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1627_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:57.000Z",
+            "ETag": "\"77e2f9b2f2f0cdcc98ec711fdc743de4\"",
+            "Size": 3544398,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1628_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:16.000Z",
+            "ETag": "\"688e7ae20b35bfb6af9dbd60b8571920\"",
+            "Size": 3799607,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1629_accel_watch.txt",
+            "LastModified": "2019-11-04T19:23:11.000Z",
+            "ETag": "\"d5420c2e3fe3f6a77c2abfd729f4e364\"",
+            "Size": 7128788,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1630_accel_watch.txt",
+            "LastModified": "2019-11-04T19:23:20.000Z",
+            "ETag": "\"2fdef8e5807e74cc1ca1c7f013e65033\"",
+            "Size": 3621027,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1631_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:29.000Z",
+            "ETag": "\"247e6bf633bd59454d1328064ac87b14\"",
+            "Size": 3609815,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1632_accel_watch.txt",
+            "LastModified": "2019-11-04T19:19:16.000Z",
+            "ETag": "\"1615347254f59eed0a952286f9e20808\"",
+            "Size": 3414281,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1633_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:54.000Z",
+            "ETag": "\"1d61b017ab45795f22b1d237957bb474\"",
+            "Size": 3546030,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1634_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:21.000Z",
+            "ETag": "\"1c2bc55e7f9514ff2f9208ca0f643ce7\"",
+            "Size": 3470664,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1635_accel_watch.txt",
+            "LastModified": "2019-11-04T19:19:55.000Z",
+            "ETag": "\"3883058b5351f1e13ea430e40bedd37f\"",
+            "Size": 3478196,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1636_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:10.000Z",
+            "ETag": "\"1b09146ee5a354331705d929645c17c2\"",
+            "Size": 3502839,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1637_accel_watch.txt",
+            "LastModified": "2019-11-04T19:23:21.000Z",
+            "ETag": "\"6ba14b3bf6d20132d6c52af40422d16d\"",
+            "Size": 8190030,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1638_accel_watch.txt",
+            "LastModified": "2019-11-04T19:23:21.000Z",
+            "ETag": "\"2aa5cade7aea5d566549f31138c29b17\"",
+            "Size": 8983376,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1639_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:15.000Z",
+            "ETag": "\"90886437696d88d00eabc22b76ecc32b\"",
+            "Size": 8327815,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1640_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:08.000Z",
+            "ETag": "\"85df987496dd1619d642589d726b56d5\"",
+            "Size": 8876359,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1641_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:51.000Z",
+            "ETag": "\"5ef98a2da338fa5cd5ec3b5917df70da\"",
+            "Size": 3622038,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1642_accel_watch.txt",
+            "LastModified": "2019-11-04T19:23:17.000Z",
+            "ETag": "\"433d6d1e9c90a6cb9e42336a2dd39c42\"",
+            "Size": 3342889,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1643_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:38.000Z",
+            "ETag": "\"f89102e612907059db7a0206c357c0b3\"",
+            "Size": 3539297,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1644_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:45.000Z",
+            "ETag": "\"1882e733bdfc6d5e03063733b2664f90\"",
+            "Size": 3940189,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1645_accel_watch.txt",
+            "LastModified": "2019-11-04T19:22:37.000Z",
+            "ETag": "\"1e458fc19a8b7b6ab77d8e509b5625e9\"",
+            "Size": 3771329,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1646_accel_watch.txt",
+            "LastModified": "2019-11-04T19:20:39.000Z",
+            "ETag": "\"db2bc9096be864d04c7494745a1cf15d\"",
+            "Size": 3624756,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1647_accel_watch.txt",
+            "LastModified": "2019-11-04T19:18:56.000Z",
+            "ETag": "\"62d3393ba76ccbf9b8bd9bc49f3c5b9c\"",
+            "Size": 3591247,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1648_accel_watch.txt",
+            "LastModified": "2019-11-04T19:19:07.000Z",
+            "ETag": "\"a25efa88c2beece7778209490b580da9\"",
+            "Size": 3610994,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1649_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:08.000Z",
+            "ETag": "\"4c4d06477f3b66e798d18c3bb17a26cb\"",
+            "Size": 3630071,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/accel/data_1650_accel_watch.txt",
+            "LastModified": "2019-11-04T19:21:18.000Z",
+            "ETag": "\"871b01746637351ef6ed31ef92e4d86c\"",
+            "Size": 3705581,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/.DS_Store",
+            "LastModified": "2019-11-04T19:14:33.000Z",
+            "ETag": "\"194577a7e20bdcc7afbb718f502c134c\"",
+            "Size": 6148,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1600_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:21.000Z",
+            "ETag": "\"3f5cad156324e886a9997e8cffe43a6a\"",
+            "Size": 3728925,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1601_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:26.000Z",
+            "ETag": "\"3ab650a3581b3f520f016ffe84dedb98\"",
+            "Size": 3859004,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1602_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:18:34.000Z",
+            "ETag": "\"608bfe717093f0d6749ff5437b482252\"",
+            "Size": 3764751,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1603_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:18:07.000Z",
+            "ETag": "\"83eb1b84a1e859ce08ff38689dc8473b\"",
+            "Size": 3670763,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1604_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:48.000Z",
+            "ETag": "\"09e89ec2e7543ad05132a00d7d1edb42\"",
+            "Size": 3757622,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1605_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:18:34.000Z",
+            "ETag": "\"0dec651578c078e1119dd68dc309c44a\"",
+            "Size": 3748882,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1606_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:49.000Z",
+            "ETag": "\"d09be4f1ddef1c03455121a179caf6b4\"",
+            "Size": 3747681,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1607_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:02.000Z",
+            "ETag": "\"390757749b747e46bf3ce790a0b73f8b\"",
+            "Size": 3791193,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1608_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:03.000Z",
+            "ETag": "\"81d0722f1892d064810dbed91bb72672\"",
+            "Size": 3976940,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1609_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:36.000Z",
+            "ETag": "\"c32ead86deecd7d145486d540d8aff6e\"",
+            "Size": 3998813,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1610_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:18:48.000Z",
+            "ETag": "\"25e89876946de03a8daea4e17de62394\"",
+            "Size": 3706338,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1611_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:39.000Z",
+            "ETag": "\"18efdddd5e81eeb26a3f3e64dc2ea8af\"",
+            "Size": 3653407,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1612_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:21.000Z",
+            "ETag": "\"b6cfb8b558eb1bfad1f5298eb28232a1\"",
+            "Size": 3676895,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1613_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:55.000Z",
+            "ETag": "\"f089587669b555b8097b093a3dd06691\"",
+            "Size": 3783666,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1614_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:23.000Z",
+            "ETag": "\"896cdd60a740c40985abacb6f576db8b\"",
+            "Size": 3660708,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1615_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:02.000Z",
+            "ETag": "\"d217f7f92aa4669c001795c7db7228d5\"",
+            "Size": 3714646,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1616_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:18:17.000Z",
+            "ETag": "\"fd396a059f6cc15db6356c457efc3188\"",
+            "Size": 3575765,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1617_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:18:15.000Z",
+            "ETag": "\"42cd64ce50b2a8d8fd7ad81c7207cafb\"",
+            "Size": 3888637,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1618_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:18:27.000Z",
+            "ETag": "\"56bd8b54eba1d7b76261bccb82780bed\"",
+            "Size": 3592783,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1619_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:17:57.000Z",
+            "ETag": "\"ef00acd99124172008568d592feed129\"",
+            "Size": 3762379,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1620_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:15:44.000Z",
+            "ETag": "\"46eb653c46af87d8b566a3c0d24d3d7b\"",
+            "Size": 3793797,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1621_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:10.000Z",
+            "ETag": "\"39f0110c33322cab5d780573c032be34\"",
+            "Size": 4097549,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1622_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:51.000Z",
+            "ETag": "\"328f5f907de44371123428e6ade795e3\"",
+            "Size": 3736213,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1623_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:26.000Z",
+            "ETag": "\"e2dc366e02cb6f2b0aaba828afb75b0c\"",
+            "Size": 3672190,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1624_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:27.000Z",
+            "ETag": "\"492f0ee2ada0ea0e6138ac7f41a943fa\"",
+            "Size": 4150996,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1625_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:58.000Z",
+            "ETag": "\"243e1a44cd6aece5331698d2ace0ce3c\"",
+            "Size": 3854904,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1626_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:47.000Z",
+            "ETag": "\"8961712d6bde1d58281c73ad6a0b3b4f\"",
+            "Size": 3906596,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1627_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:15:22.000Z",
+            "ETag": "\"3bc50e002c199139cdb9a5c626c083d0\"",
+            "Size": 3763540,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1628_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:07.000Z",
+            "ETag": "\"a828c7a176bf3a16ee94e34874eb799d\"",
+            "Size": 4097262,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1629_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:37.000Z",
+            "ETag": "\"8cd047a2a1249f0daaab07deeb878c29\"",
+            "Size": 7535314,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1630_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:15:15.000Z",
+            "ETag": "\"634b8fb1f45f17acbd6d95488365f92c\"",
+            "Size": 3822200,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1631_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:07.000Z",
+            "ETag": "\"e3506d24b0b622b7c3e87c78fc1c9a72\"",
+            "Size": 3816030,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1632_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:15:36.000Z",
+            "ETag": "\"eed5162b8b09afb6b3e72d551704260b\"",
+            "Size": 3637005,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1633_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:29.000Z",
+            "ETag": "\"aeae7b512da4a4b4d35eeb6d52a9da0a\"",
+            "Size": 3766115,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1634_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:13.000Z",
+            "ETag": "\"447b2890359435d03a20531349eda2d8\"",
+            "Size": 3699919,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1635_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:01.000Z",
+            "ETag": "\"f01df9f47503fe55c45ef069f56dab03\"",
+            "Size": 3688451,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1636_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:31.000Z",
+            "ETag": "\"01d42ac34549f2d9833cda6998e6b667\"",
+            "Size": 3760137,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1637_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:52.000Z",
+            "ETag": "\"852692f91636e64c66981268c39d3282\"",
+            "Size": 4135959,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1638_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:15:21.000Z",
+            "ETag": "\"be03e71d5aee8a1b813574cd938107a8\"",
+            "Size": 4297546,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1639_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:01.000Z",
+            "ETag": "\"4f1d4e9cf76d5d62ff4bc19610612d5b\"",
+            "Size": 4465252,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1640_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:06.000Z",
+            "ETag": "\"7663969ee3d014d8a7cf1fdf70c0620c\"",
+            "Size": 4233403,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1641_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:56.000Z",
+            "ETag": "\"860576cf9c2f4f47095e06246a6f2c24\"",
+            "Size": 3824894,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1642_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:45.000Z",
+            "ETag": "\"47e24fa082885a0c556e3969c5f98f67\"",
+            "Size": 3562792,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1643_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:15:39.000Z",
+            "ETag": "\"03b59e6bc5eb8bbffb468a742d960c6b\"",
+            "Size": 3782043,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1644_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:15:49.000Z",
+            "ETag": "\"59485379bcf46c4952c3c1df2c5e032e\"",
+            "Size": 4152681,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1645_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:38.000Z",
+            "ETag": "\"dfc2e3119d6164049cba8d73eaead6e4\"",
+            "Size": 3978439,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1646_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:14:32.000Z",
+            "ETag": "\"874c6feabc82005cd6f2d658d90bc016\"",
+            "Size": 3792874,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1647_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:15:02.000Z",
+            "ETag": "\"444b90ac5c761f308595dbf3a59efc54\"",
+            "Size": 3812790,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1648_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:13:59.000Z",
+            "ETag": "\"ad159e96fb251cbe8e72714e1c6be591\"",
+            "Size": 3846681,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1649_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:15:19.000Z",
+            "ETag": "\"5a4508cdb4fcdf4928985a1577672244\"",
+            "Size": 3837257,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch/gyro/data_1650_gyro_watch.txt",
+            "LastModified": "2019-11-04T19:16:41.000Z",
+            "ETag": "\"e4ad0f272c19b4e655957226fb01b716\"",
+            "Size": 3927839,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "WISDM_Data/watch_accelerometer.txt",
+            "LastModified": "2019-11-04T22:51:36.000Z",
+            "ETag": "\"780e17f1ec8c1cf055e5629dd309feae-13\"",
+            "Size": 206451673,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "adult.raw",
+            "LastModified": "2020-01-06T06:10:06.000Z",
+            "ETag": "\"5067f91b6256176fec21dff361a34bd7\"",
+            "Size": 5787978,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment-parquet/_started_5003658019206794907",
+            "LastModified": "2022-01-08T01:49:27.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment-parquet/part-00001-tid-5003658019206794907-18b1aad4-f2c5-4e36-a37a-28cd4d3b9abe-49-1-c000.snappy.parquet",
+            "LastModified": "2022-01-08T01:50:06.000Z",
+            "ETag": "\"1f0f5a29f2e5aab770e555a9ca146766-12\"",
+            "Size": 115539623,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.csv",
+            "LastModified": "2022-01-07T19:51:30.000Z",
+            "ETag": "\"7ea698f71a0c7fdf363fe38bb8efe4fd-346\"",
+            "Size": 5804394051,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/_SUCCESS",
+            "LastModified": "2022-01-07T20:57:21.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/_committed_6190836412925683077",
+            "LastModified": "2022-01-07T20:57:21.000Z",
+            "ETag": "\"e19aee9b2f8171668ef1b79a0cde6dff\"",
+            "Size": 4424,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/_started_6190836412925683077",
+            "LastModified": "2022-01-07T20:53:02.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00000-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-275-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:53:14.000Z",
+            "ETag": "\"cc046471bacb2f03c3d7bb2c796f84ff\"",
+            "Size": 7152087,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00001-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-276-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:53:20.000Z",
+            "ETag": "\"47639434c39292f11931eda13e33da0c\"",
+            "Size": 8910534,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00002-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-277-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:53:24.000Z",
+            "ETag": "\"dda84fc552a9834d4a0b4c05286eed4a\"",
+            "Size": 8322581,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00003-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-278-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:53:30.000Z",
+            "ETag": "\"526ca76353dc071d931bb7a3db03a699\"",
+            "Size": 6720906,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00004-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-279-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:53:32.000Z",
+            "ETag": "\"ae2d9264f52cea761c1b02aeedbfd04f\"",
+            "Size": 7090686,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00005-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-280-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:53:42.000Z",
+            "ETag": "\"32cb2d4761c27b665dc5f67227430df8\"",
+            "Size": 6986104,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00006-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-281-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:53:42.000Z",
+            "ETag": "\"c3704ea234730e3c01afe03703f12c27\"",
+            "Size": 6937376,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00007-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-282-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:53:56.000Z",
+            "ETag": "\"736cd32f5669f0b439b6f5225a9f0209\"",
+            "Size": 7308699,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00008-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-283-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:53:57.000Z",
+            "ETag": "\"f858890df46ed1ca5b8c786ccf7b87b2\"",
+            "Size": 9224808,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00009-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-284-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:18.000Z",
+            "ETag": "\"ef91b575bb3deb24a1b0c993f998e428\"",
+            "Size": 7542884,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00010-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-285-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:04.000Z",
+            "ETag": "\"cd7c705da9fd50c4da07c514efee02e1\"",
+            "Size": 7447433,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00011-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-286-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:13.000Z",
+            "ETag": "\"063233560126f9fd68c1541bcfe00887\"",
+            "Size": 6394371,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00012-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-287-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:23.000Z",
+            "ETag": "\"b1c4f2a418924b460c3cacf9410cb6cc\"",
+            "Size": 8372393,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00013-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-288-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:31.000Z",
+            "ETag": "\"450983debaea6db0d7ef1028179ab8f7\"",
+            "Size": 6734094,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00014-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-289-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:32.000Z",
+            "ETag": "\"77efc660909a28e1acf3d8050b78a63f\"",
+            "Size": 7194100,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00015-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-290-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:42.000Z",
+            "ETag": "\"db51f96bd259f00b5536131615ed38a6\"",
+            "Size": 8235213,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00016-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-291-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:42.000Z",
+            "ETag": "\"560991032a9059141479c86a6ef1e666\"",
+            "Size": 9006348,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00017-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-292-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:53.000Z",
+            "ETag": "\"ea3465d92f5b3f3f91030dc5f9c50ae7\"",
+            "Size": 9729598,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00018-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-293-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:54:54.000Z",
+            "ETag": "\"4b2b8682d8c5145f9c7c15f552bd44e9\"",
+            "Size": 7848332,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00019-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-294-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:03.000Z",
+            "ETag": "\"e365ed7578bc890615402361dcb5761d\"",
+            "Size": 8127082,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00020-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-295-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:02.000Z",
+            "ETag": "\"5d0e39e932e0b2e082728a6ef331abd8\"",
+            "Size": 6083648,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00021-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-296-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:11.000Z",
+            "ETag": "\"20ff3110262fc6cc49739f939bc92123\"",
+            "Size": 8300263,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00022-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-297-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:17.000Z",
+            "ETag": "\"60692653f18668cd2e038baf6b4097b4\"",
+            "Size": 9008588,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00023-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-298-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:19.000Z",
+            "ETag": "\"59490f5f7477d7e13d3018911b2240a8\"",
+            "Size": 6610343,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00024-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-299-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:32.000Z",
+            "ETag": "\"5aeafd36eb9502a127ac7d3ad54c67ff\"",
+            "Size": 6681980,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00025-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-300-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:40.000Z",
+            "ETag": "\"a2a71171eeaac9cdd9626b7bb0c7183a\"",
+            "Size": 7870752,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00026-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-301-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:42.000Z",
+            "ETag": "\"77a9e285baa274df44e523bbdc8b62a0\"",
+            "Size": 8543179,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00027-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-302-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:50.000Z",
+            "ETag": "\"f576a73510282eab967067b40b407c10\"",
+            "Size": 7712389,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00028-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-303-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:55:53.000Z",
+            "ETag": "\"f0261c2ca862573c751d71a8ae5857b0\"",
+            "Size": 7407127,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00029-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-304-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:56:04.000Z",
+            "ETag": "\"5e9ce0bd87e03aa7fd169baad25acfbb\"",
+            "Size": 8227542,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00030-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-305-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:56:02.000Z",
+            "ETag": "\"ae7638b4e75f7c19c39140873d09d301\"",
+            "Size": 7686994,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00031-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-306-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:56:18.000Z",
+            "ETag": "\"0fa9aaa3a4e451a2c02090466f04aebf\"",
+            "Size": 9132422,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00032-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-307-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:56:14.000Z",
+            "ETag": "\"39b235e86b306858b0e2d3d5b610b0c5\"",
+            "Size": 8594393,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00033-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-308-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:56:25.000Z",
+            "ETag": "\"6a87d9477025d72c33e9a34f8d45e57a\"",
+            "Size": 9131676,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00034-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-309-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:56:34.000Z",
+            "ETag": "\"a41b207144f88397af59e63de14ec857\"",
+            "Size": 8281121,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00035-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-310-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:56:35.000Z",
+            "ETag": "\"b6ff5c9a2680d93b5daaa832a134a86e\"",
+            "Size": 8240059,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00036-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-311-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:56:45.000Z",
+            "ETag": "\"ad34a95e3e4df872adfa7faf9aacc505\"",
+            "Size": 8594163,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00037-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-312-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:56:50.000Z",
+            "ETag": "\"602b96065b58eb83aba7e9a73126c66c\"",
+            "Size": 8419013,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00038-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-313-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:57:03.000Z",
+            "ETag": "\"6a8468e1fe03a35bc5b66657d60f488b\"",
+            "Size": 7482041,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00039-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-314-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:57:03.000Z",
+            "ETag": "\"ea6c6c9417ed60628e73c8142b643c1d\"",
+            "Size": 8772259,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00040-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-315-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:57:17.000Z",
+            "ETag": "\"fdcb6a3bd202a8b7110aa61ec61f0a4f\"",
+            "Size": 8843996,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00041-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-316-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:57:19.000Z",
+            "ETag": "\"3cb37783e6a2b056cc55dafe2bb733ad\"",
+            "Size": 10041433,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00042-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-317-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:57:19.000Z",
+            "ETag": "\"52508594ac6f3f32f3b6ac58609fded9\"",
+            "Size": 9605539,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "df-emotion-sentiment.parquet/part-00043-tid-6190836412925683077-09a1fcd8-63ee-4963-8708-6e1decd7ec2f-318-1-c000.snappy.parquet",
+            "LastModified": "2022-01-07T20:57:14.000Z",
+            "ETag": "\"12e8c23d3eb8aaf646daadffbd30e909\"",
+            "Size": 2407047,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "ID": "65a011a29cdf8ec533ec3d1ccaae921c"
+            }
+        },
+        {
+            "Key": "employees.csv",
+            "LastModified": "2020-11-09T22:12:40.000Z",
+            "ETag": "\"7c6723911fb91d863d7eac1ce2fbebfa\"",
+            "Size": 81,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "install_sparkling_water_3.28.0.1-1-2.1.sh",
+            "LastModified": "2020-01-06T05:04:41.000Z",
+            "ETag": "\"11b78fb822a688beaa059731c4aad5f6\"",
+            "Size": 990,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "nyt_bestsellers.json",
+            "LastModified": "2020-11-09T20:53:09.000Z",
+            "ETag": "\"34804cd76de48db32f21f6d7ceff3473\"",
+            "Size": 829865,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen.parquet/_SUCCESS",
+            "LastModified": "2021-02-13T07:10:43.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen.parquet/part-00000-b6ff9e8c-e165-44e5-870d-f9361c99358a-c000.snappy.parquet",
+            "LastModified": "2021-02-13T07:10:42.000Z",
+            "ETag": "\"5da8ebe2001233f56be6127215036b1f-1\"",
+            "Size": 47373,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen.parquet/part-00001-b6ff9e8c-e165-44e5-870d-f9361c99358a-c000.snappy.parquet",
+            "LastModified": "2021-02-13T07:10:42.000Z",
+            "ETag": "\"37601b21bbca4519f9d5e6a9086b9ec2-1\"",
+            "Size": 47388,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen.parquet/part-00002-b6ff9e8c-e165-44e5-870d-f9361c99358a-c000.snappy.parquet",
+            "LastModified": "2021-02-13T07:10:42.000Z",
+            "ETag": "\"3de7954532e670e40fc390953d6e9f8d-1\"",
+            "Size": 47338,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen.parquet/part-00003-b6ff9e8c-e165-44e5-870d-f9361c99358a-c000.snappy.parquet",
+            "LastModified": "2021-02-13T07:10:42.000Z",
+            "ETag": "\"45a87aa34a343d8e942529b04e206761-1\"",
+            "Size": 47323,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen_parquet/_SUCCESS",
+            "LastModified": "2021-02-13T07:21:07.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen_parquet/part-00000-0361ea34-7d14-4523-8e71-c8ad83f278e4-c000.snappy.parquet",
+            "LastModified": "2021-02-13T07:21:07.000Z",
+            "ETag": "\"120c4c68bec1ab9a01ff626656013148-1\"",
+            "Size": 47373,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen_parquet/part-00001-0361ea34-7d14-4523-8e71-c8ad83f278e4-c000.snappy.parquet",
+            "LastModified": "2021-02-13T07:21:07.000Z",
+            "ETag": "\"a7500f137ea5b7fa2e00981a51a16cb0-1\"",
+            "Size": 47388,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen_parquet/part-00002-0361ea34-7d14-4523-8e71-c8ad83f278e4-c000.snappy.parquet",
+            "LastModified": "2021-02-13T07:21:06.000Z",
+            "ETag": "\"c42070af7edceafd47af6cccd427da75-1\"",
+            "Size": 47338,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen_parquet/part-00003-0361ea34-7d14-4523-8e71-c8ad83f278e4-c000.snappy.parquet",
+            "LastModified": "2021-02-13T07:21:07.000Z",
+            "ETag": "\"87aa64466504ac5e58d4672aa6823726-1\"",
+            "Size": 47323,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen_raw/_SUCCESS",
+            "LastModified": "2021-02-13T23:33:04.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "pen_raw/part-00000-4a746100-f5d3-4cbe-94f9-cb3e70406eef-c000.snappy.parquet",
+            "LastModified": "2021-02-13T23:33:04.000Z",
+            "ETag": "\"02d4beebf388d0c25eb495ea9818a46e-1\"",
+            "Size": 155597,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "penbased.dat",
+            "LastModified": "2020-01-06T06:13:36.000Z",
+            "ETag": "\"39cb6ad56a087cf2c3ced0afb2e5d8ff\"",
+            "Size": 982219,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "postgresql-9.4.1212.jre6.jar",
+            "LastModified": "2019-12-06T13:19:09.000Z",
+            "ETag": "\"89d12cab16d56861b1eb21b04ebeccee\"",
+            "Size": 676247,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/.DS_Store",
+            "LastModified": "2020-01-06T06:07:38.000Z",
+            "ETag": "\"1d0318eef21e8cdad4571778c7f50a2f\"",
+            "Size": 6148,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adulttrain/_SUCCESS",
+            "LastModified": "2020-01-06T06:07:39.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adulttrain/part-00000-2947cec3-6cec-4d4a-ade1-966feda710fe-c000.snappy.parquet",
+            "LastModified": "2020-01-06T06:07:39.000Z",
+            "ETag": "\"f84846a0f533d9e7e41e865a204ae587\"",
+            "Size": 165964,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adulttrain/part-00001-2947cec3-6cec-4d4a-ade1-966feda710fe-c000.snappy.parquet",
+            "LastModified": "2020-01-06T06:07:39.000Z",
+            "ETag": "\"02a85ab1c35ceec7fc19696f5bcd87cf\"",
+            "Size": 165242,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adulttrain/part-00002-2947cec3-6cec-4d4a-ade1-966feda710fe-c000.snappy.parquet",
+            "LastModified": "2020-01-06T06:07:39.000Z",
+            "ETag": "\"38c5272f98f14bf63132081a0d16fc31\"",
+            "Size": 166641,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adulttrain/part-00003-2947cec3-6cec-4d4a-ade1-966feda710fe-c000.snappy.parquet",
+            "LastModified": "2020-01-06T06:07:40.000Z",
+            "ETag": "\"afdc5fbe3475c91c8a22b29e86651d66\"",
+            "Size": 164486,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/._SUCCESS.crc",
+            "LastModified": "2020-01-06T06:07:40.000Z",
+            "ETag": "\"9dfecc15c928c9274ad273719aa7a3c0\"",
+            "Size": 8,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/.part-00000-40f6dd06-db07-4a2c-8e2a-4cb3fcbac555-c000.snappy.parquet.crc",
+            "LastModified": "2020-01-06T06:07:40.000Z",
+            "ETag": "\"1e29903456d6cf2848dcbb7d54ad4c1d\"",
+            "Size": 392,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/.part-00001-40f6dd06-db07-4a2c-8e2a-4cb3fcbac555-c000.snappy.parquet.crc",
+            "LastModified": "2020-01-06T06:07:40.000Z",
+            "ETag": "\"856217a5c663440e4ca18d94d4a3a4d4\"",
+            "Size": 396,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/.part-00002-40f6dd06-db07-4a2c-8e2a-4cb3fcbac555-c000.snappy.parquet.crc",
+            "LastModified": "2020-01-06T06:07:40.000Z",
+            "ETag": "\"58c4bd899f06c54e204ea76d9c6085f0\"",
+            "Size": 400,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/.part-00003-40f6dd06-db07-4a2c-8e2a-4cb3fcbac555-c000.snappy.parquet.crc",
+            "LastModified": "2020-01-06T06:07:41.000Z",
+            "ETag": "\"b7e992ca8fd9d88a281fda5182795c3d\"",
+            "Size": 408,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/_SUCCESS",
+            "LastModified": "2020-01-06T06:07:41.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/part-00000-40f6dd06-db07-4a2c-8e2a-4cb3fcbac555-c000.snappy.parquet",
+            "LastModified": "2020-01-06T06:07:40.000Z",
+            "ETag": "\"de92268912d4fec7e7a028130e9e50af\"",
+            "Size": 48693,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/part-00001-40f6dd06-db07-4a2c-8e2a-4cb3fcbac555-c000.snappy.parquet",
+            "LastModified": "2020-01-06T06:07:40.000Z",
+            "ETag": "\"2fa6ed98931a0b5812f96eb942863ad7\"",
+            "Size": 49654,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/part-00002-40f6dd06-db07-4a2c-8e2a-4cb3fcbac555-c000.snappy.parquet",
+            "LastModified": "2020-01-06T06:07:41.000Z",
+            "ETag": "\"4cfffe77ea809a1d9e4942ad6e19d9bb\"",
+            "Size": 49665,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/adultvalid/part-00003-40f6dd06-db07-4a2c-8e2a-4cb3fcbac555-c000.snappy.parquet",
+            "LastModified": "2020-01-06T06:07:41.000Z",
+            "ETag": "\"2d090e9e5d77a6357d1334267ff300c3\"",
+            "Size": 50886,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/test/._SUCCESS.crc",
+            "LastModified": "2020-01-06T06:07:39.000Z",
+            "ETag": "\"9dfecc15c928c9274ad273719aa7a3c0\"",
+            "Size": 8,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/test/.part-00000-bc01d5ca-447e-4537-ba19-421a810df201-c000.snappy.parquet.crc",
+            "LastModified": "2020-01-06T06:07:40.000Z",
+            "ETag": "\"a9e0bc916d2b04025ef60ce50fe55fdd\"",
+            "Size": 16,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/test/_SUCCESS",
+            "LastModified": "2020-01-06T06:07:40.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "spark-warehouse/test/part-00000-bc01d5ca-447e-4537-ba19-421a810df201-c000.snappy.parquet",
+            "LastModified": "2020-01-06T06:07:39.000Z",
+            "ETag": "\"0773e7c124eef349ebe9fa1cf4dbb209\"",
+            "Size": 924,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "supervisor_sf.csv",
+            "LastModified": "2017-01-18T18:10:57.000Z",
+            "ETag": "\"481f643bae076ca0b75360845fbbf3d5\"",
+            "Size": 685,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "tweets_2021_12_10.csv",
+            "LastModified": "2022-01-08T22:25:23.000Z",
+            "ETag": "\"2808a95ac790e701a1c1189d5a2a6b6c-165\"",
+            "Size": 2823073866,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "world_bank_project.json",
+            "LastModified": "2017-01-06T11:01:31.000Z",
+            "ETag": "\"6f58d8ffdb026be0a784fc9e34204762\"",
+            "Size": 2969085,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "world_bank_project/_SUCCESS",
+            "LastModified": "2021-02-01T10:04:42.000Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "Size": 0,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        },
+        {
+            "Key": "world_bank_project/part-00000-5f8a78ad-93c0-4be3-a8fe-7d58d318c6b9-c000.snappy.parquet",
+            "LastModified": "2021-02-01T10:04:40.000Z",
+            "ETag": "\"293e7c35769579451e42a34a7061dec7\"",
+            "Size": 524276,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "dwoodbridge",
+                "ID": "e199ae6af74fe5af31817e875ef8b6915739b8c0e0dbf9de09c8beadb4569084"
+            }
+        }
+    ]
+}
