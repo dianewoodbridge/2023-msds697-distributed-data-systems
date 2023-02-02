@@ -90,22 +90,6 @@ shan = {"name":"Shan Wang"}
 
 
 // Example 7
-// For documents where "name" is "Diane MK Woodbridge", 
-// set "numCats" to 1, 
-// if it is either not set or the existing value larger than 1.
-//$min : updates the value of the field to a specified value 
-//       if the specified value is less than the current value of the field. 
-
-
-// For documents where "name" is "Diane MK Woodbridge", 
-// set "numDogs" to 1, 
-// if it is either not set or the existing value is smaller than 1.
-//$max : Only updates the field to a specified value 
-//       if the specified value is greater than the existing field value.
-
-
-
-// Example 8
 // In the "business" collection, for "White Castle" on "Pennsylvania Avenue" , 
 // insert a new grades with "date" : today, "grade" : "A", and "score" : 9.
 db.business.find({"name":"White Castle", "address.street":"Pennsylvania Avenue"})
@@ -119,7 +103,7 @@ db.business.find({"name":"White Castle", "address.street":"Pennsylvania Avenue"}
 
 
 
-// Example 9 
+// Example 8
 //Change all scores of "40356483" from 10 to 11.
 //$
 
@@ -135,7 +119,7 @@ db.business.drop()
 
 
 
-// Example 10
+// Example 9
 // In "friends" collection,
 // Delete one item which officeAddress' city is “San Francisco”
 // Delete all items which officeAddress' city is “San Francisco”

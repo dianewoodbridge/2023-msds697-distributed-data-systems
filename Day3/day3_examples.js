@@ -105,28 +105,8 @@ db.friends.find({"name" : "Shan Wang"})
 db.friends.updateMany({},{$rename : {"address":"officeAddress"}})
 db.friends.find()
 
+
 // Example 7
-// For documents where "name" is "Diane MK Woodbridge", 
-// set "numCats" to 1, 
-// if it is either not set or the existing value larger than 1.
-//$min : updates the value of the field to a specified value 
-//       if the specified value is less than the current value of the field. 
-db.friends.updateMany({"name":"Diane MK Woodbridge"},{$min : {"numCats":1}})
-db.friends.find({"name" : "Diane MK Woodbridge"})
-
-// For documents where "name" is "Diane MK Woodbridge", 
-// set "numDogs" to 1, 
-// if it is either not set or the existing value is smaller than 1.
-//$max : Only updates the field to a specified value 
-//       if the specified value is greater than the existing field value.
-db.friends.updateMany({"name":"Diane MK Woodbridge"},{$max : {"numDogs":1}})
-db.friends.find({"name" : "Diane MK Woodbridge"})
-
-db.friends.updateMany({"name":"Diane MK Woodbridge"},{$max : {"numDogs":0}})
-db.friends.find({"name" : "Diane MK Woodbridge"})
-
-
-// Example 8
 // In the "business" collection, for "White Castle" on "Pennsylvania Avenue" , 
 // insert a new grades with "date" : today, "grade" : "A", and "score" : 9.
 db.business.find({"name":"White Castle", "address.street":"Pennsylvania Avenue"})
@@ -149,11 +129,11 @@ db.business.find({"name":"White Castle", "address.street":"Pennsylvania Avenue"}
 
 // Remove all reviews with Cs for restaurant_id, 40364467 .
 db.business.find({"restaurant_id" : "40364467"}) // Two Cs
-db.business.update({"restaurant_id" : "40364467"},
+db.business.updateMany({"restaurant_id" : "40364467"},
                    {$pull:{"grades":{"grade":"C"}}})
 db.business.find({"restaurant_id" : "40364467"}) // Zero Cs
 
-// Example 9 
+// Example 8 
 //Change all scores of "40356483" from 10 to 11.
 //$
 db.business.find({"restaurant_id": "40356483"}) // has total 6 grades and 3 grades with 10 as a numeric score.
@@ -177,7 +157,7 @@ db.business.updateMany({"restaurant_id":"40356483"},
 db.business.find({"restaurant_id": "40356483"})  // Change 3
 
 
-// Example 10
+// Example 9
 // In "friends" collection,
 // Delete one item which officeAddress' city is “San Francisco”
 // Delete all items which officeAddress' city is “San Francisco”
