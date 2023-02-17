@@ -20,7 +20,7 @@ noaa_endpoint = f"data?datasetid={dataset_id}&datatypeid=PRCP&station_id={statio
 noaa_api_url = f"https://www.ncei.noaa.gov/cdo-web/api/v2/{noaa_endpoint}"
 
 bucket_name = os.environ.get("GS_BUCKET_NAME")
-service_account_key_file = os.environ.get("GC_SERVICE_ACCOUNT_KEY_FILE")
+service_account_key_file = os.environ.get("GS_SERVICE_ACCOUNT_KEY_FILE")
 
 mongo_username = os.environ.get("MONGO_USERNAME")
 mongo_password =  os.environ.get("MONGO_PASSWORD")
